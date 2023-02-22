@@ -1,0 +1,19 @@
+.col {
+    background-color: #ffc107;
+}
+
+.table-style {
+    width: 90%;
+}
+
+th{
+    text-align: center;
+}
+
+.input-class {
+    margin: 15px;
+    border: 0;
+    color: white;
+    border-bottom: 1px solid gray;
+    background-color: rgb(29, 28, 28);
+}

@@ -1,0 +1,9 @@
+.chartsContanier {
+  display: flex;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+
+.topEmp{
+  margin-right: 55px;
+}
